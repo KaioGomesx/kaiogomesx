@@ -27,4 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiogomesx&layout=compact" alt="kaiogomesx" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiogomesx&show_icons=true" alt="kaiogomesx" /></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kaiogomesx.png" alt="TryHackMe" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/kaiogomesx.png" alt="TryHackMe" width="40" height="40"/>
