@@ -1,11 +1,11 @@
 <h1 align="center">Yay, sou Kaio Gomes</h1>
-<h3 align="center">Linux user, software dev, ctf player</h3>
+<h3 align="center">Linux user, software dev, CTF player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiogomesx" alt="kaiogomesx" /> </p>
 
 - 📝 Escrevo artigos de vez em quando em [https://dev.to/kaiogomesx](https://dev.to/kaiogomesx)
 
-- 💬 Me pergunte sobre **js, ts, react e linux**
+- 💬 Me pergunte sobre **JS, TS, React e Linux**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
