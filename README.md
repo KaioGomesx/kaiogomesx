@@ -1,5 +1,5 @@
 <h1 align="center">Yay, sou Kaio Gomes</h1>
-<h3 align="center">Linux user - Software Dev - CTF player</h3>
+<h3 align="center">DCPT - Linux user - Software Dev - CTF player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiogomesx" alt="kaiogomesx" /> </p>
 
