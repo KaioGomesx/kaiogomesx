@@ -1,5 +1,5 @@
 <h1 align="center">Kaio Gomes</h1>
-<h3 align="center">DCPT - EJPT - Cyber Threat Intelligence - Software Dev</h3>
+<h3 align="center">DCPT - EJPT - Cyber Security - Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiogomesx" alt="kaiogomesx" /> </p>
 
